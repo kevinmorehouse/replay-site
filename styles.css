@@ -130,3 +130,23 @@ h1 a {
 h1 a:visited {
     color: white;
 }
+
+.survey-button {
+  background: #04a7f0;
+  color: white;
+  margin-inline-end: 12px;
+}
+
+.hero .buttons a {
+  text-decoration: none;
+}
+
+.hero .button {
+  box-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+  display: inline-block;
+  padding: 10px 18px 9px;
+  border-radius: 10px;
+  margin-top: 16px;
+  line-height: 1.5em;
+  text-transform: uppercase;
+}
