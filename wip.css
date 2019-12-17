@@ -383,3 +383,12 @@ color: white;
     font-size: 11px;
     margin-right: 8px
 }
+
+.footer {
+  background: linear-gradient(139.48deg, #2B2657 11.93%, #A043BB 92.82%);
+  color: white;
+}
+
+.footer a:visited, .footer h1 {
+  color: white
+}
