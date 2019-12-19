@@ -377,8 +377,8 @@ padding: 0;
 }
 .email-form button {
   background: #2363D8;
-border: none;
-color: white;
+    border: none;
+    color: white;
     border-radius: 17px;
     height: 25px;
     width: 70px;
@@ -391,6 +391,10 @@ color: white;
   color: white;
 }
 
-.footer a:visited, .footer h1 {
+.footer img {
+  display: inline-block;
+}
+
+.footer a, .footer a:visited, .footer h1 {
   color: white
 }
