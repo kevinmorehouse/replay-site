@@ -276,6 +276,8 @@ img {
   box-shadow: none;
   position: relative;
   bottom: -0.1em;
+  -webkit-filter: invert(100%);
+  filter: invert(100%);
 }
 
 @media (max-width: 800px) {
